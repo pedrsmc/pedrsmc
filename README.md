@@ -9,7 +9,7 @@ Sou um aluno da área de técnologia, com uma sólida base em linguagens de prog
 ## Contato
 Estou aberto a oportunidades de colaboração e novos desafios! Se você está interessado em trabalhar comigo, sinta-se à vontade para entrar em contato:
 
-- Email: [pedros4muel@gmail.com](:pedros4muel@gmail.com/)
+- Email: [pedros4muel@gmail.com](http://pedros4muel@gmail.com/)
 - Linkedin: [Meu perfil!](https://www.linkedin.com/in/pedro-samuel-4026222b3/)
 - GitHub: [pedrsmc](https://github.com/pedrsmc)
 
