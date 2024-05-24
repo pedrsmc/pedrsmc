@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou Pedro Samuel.
+# Olá! 👋 Meu nome é Pedro.
 
 Sou um aluno da área de técnologia, com uma sólida base em linguagens de programação, estou constantemente em busca de novas oportunidades de aprendizado e crescimento profissional.
 
