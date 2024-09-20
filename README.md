@@ -11,7 +11,5 @@ Estou aberto a oportunidades de colaboração e novos desafios! Se você está i
 
 - Email: [pedros4muel@gmail.com](http://pedros4muel@gmail.com/)
 - Linkedin: [Meu perfil!](https://www.linkedin.com/in/pedro-samuel-4026222b3/)
-- GitHub: [pedrsmc](https://github.com/pedrsmc)
-
 
 ### Vamos construir algo incrível juntos! 💻🚀
