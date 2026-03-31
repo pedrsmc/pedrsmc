@@ -16,7 +16,7 @@ Estou sempre buscando aprender novas ferramentas, melhorar minhas habilidades e 
 
 ## 📊 Estatísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrsmc&size_weight=0.5&count_weight=0.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrsmc)](https://github.com/pedrsmc/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pedrsmc\&theme=dark)](https://git.io/streak-stats)
 
