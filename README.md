@@ -16,9 +16,7 @@ Estou sempre buscando aprender novas ferramentas, melhorar minhas habilidades e 
 
 ## 📊 Estatísticas
 
-![WakaTime Languages](https://raw.githubusercontent.com/pedrsmc/wakatime-svg/output/generated/languages.svg)
-
-![WakaTime Projects](https://raw.githubusercontent.com/pedrsmc/wakatime-svg/output/generated/projects.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrsmc\&layout=compact\&theme=dark)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pedrsmc\&theme=dark)](https://git.io/streak-stats)
 
